@@ -5,7 +5,7 @@
 </head>
 <body>
 <center>
-<h1>Текстовое поле</h1>
+<h1>Текстовое поле provet</h1>
 </center>
 <FORM METHOD="post" ACTION="1.php">
 
